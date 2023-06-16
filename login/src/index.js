@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import { FronteggProvider } from "@frontegg/react";
 
 const contextOptions = {
-    baseUrl: 'https://loudapi.frontegg.com'
+    baseUrl: 'https://app-1pl4anxxlhun.frontegg.com'
 };
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
